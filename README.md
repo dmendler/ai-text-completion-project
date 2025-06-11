@@ -2,7 +2,7 @@
 
 *Danny Mendler*
 
-This Command-Line AI Text-Completion App allows you to send prompts to an Generative AI model (Cohere) like you would on their website (like sending a prompt on ChatGPT's website). You can specifiy the temperature (creativness) and max_tokens (response length).
+This Command-Line AI Text-Completion App in Python allows you to send prompts to an Generative AI model (Cohere) like you would on their website (like sending a prompt on ChatGPT's website). You can specifiy the temperature (creativness) and max_tokens (response length) before sending prompts to the model.
 
 To run this app, first you need to install some dependencies:
 > To install cohere:
