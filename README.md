@@ -9,7 +9,9 @@ To run this app, first you need to install some dependencies:
 >> python -m pip install cohere --upgrade
 
 > You will also need to create an account on Cohere's website and use their trial API key (found under API Keys tab)
+>
 > You can create a .env file and define COHERE_API_KEY, or you can hardcode the API key to the API_KEY variable.
+>
 > If you use the .env methond, you will need to install:
 >> pip install python-dotenv
 
