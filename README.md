@@ -12,7 +12,7 @@ To run this app, first you need to install some dependencies:
 >
 > You can create a .env file and define COHERE_API_KEY, or you can hardcode the API key to the API_KEY variable.
 >
-> If you use the .env methond, you will need to install:
+> If you use the .env method, you will need to install:
 >> pip install python-dotenv
 
 You can easily run the script by typing in the command line:
